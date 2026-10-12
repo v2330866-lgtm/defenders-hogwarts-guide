@@ -1,0 +1,30 @@
+# Defenders Hogwarts Guide
+
+> Independent rules, strategy and buying guide for **Defenders of Hogwarts**, the Harry Potter board game by MinaLima. This site answers searches for "harry potter defenders rpg game".
+
+The game people search as "harry potter defenders rpg game" is **Defenders of Hogwarts** — a physical tabletop board game by MinaLima (the design studio behind the Harry Potter films' graphic props), developed with designer David Waterman. It is not an online RPG.
+
+Key facts (from the official rulebook, checked 2026-10-12):
+- Players: 2–5 (one Dark Arts player vs 1–4 Hogwarts house players)
+- Play time: ~90 minutes; Ages 13+; no official solo mode
+- House win: one player personally collects two Defence Shields
+- Dark Arts win: all three Progress Tokens + required pawns at the Location Card area simultaneously
+- House Main Actions: Explore, Learn, Replenish; Dark Arts: Explore, Replenish
+- Replenish (House) advances the Dark Arts Path; Library/Bonus/Event draws do not
+- Base game: £75 recommended UK retail incl. VAT; original Kickstarter ran Jun 30 – Jul 23, 2026; base game shipping est. October 2026
+- Different product from Harry Potter: Hogwarts Battle
+
+## Pages
+- [/](https://defendersofhogwartsguide.wiki/): overview, win conditions, quick FAQ
+- [How to Play](https://defendersofhogwartsguide.wiki/how-to-play): setup, House turn, Dark Arts turn, movement, items
+- [Strategy](https://defendersofhogwartsguide.wiki/strategy): shield routes, Loyalty, Replenish trade-offs, token planning
+- [Rules & FAQ](https://defendersofhogwartsguide.wiki/faq): 20 rules questions with answers
+- [Buying Guide](https://defendersofhogwartsguide.wiki/buying-guide): editions, price, shipping, support contacts
+- [Cards](https://defendersofhogwartsguide.wiki/cards): deck economy, effect timing, reactive cards, colour unlocking
+- [About & Sources](https://defendersofhogwartsguide.wiki/about): independence statement, fact-checking method, official links
+
+## Official sources
+- Rulebook PDF: https://media.minalima.com/2026/06/Defenders_of_Hogwarts_-_A_board_game_by_MinaLima_-_Rulebook.pdf
+- Kickstarter campaign: https://www.kickstarter.com/projects/minalima/defenders-of-hogwarts
+
+This is an independent fan guide, not affiliated with MinaLima, Warner Bros. or J.K. Rowling.
